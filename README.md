@@ -16,7 +16,7 @@ In this project, we implement and analyze several families of masked gadgets:
 
 The goal is to bridge the gap between theoretical constructions and practical implementations.
 
-## ⚙️ Implemented Gadgets
+## Implemented Gadgets
 
 ### 1. Linear Boolean Gadgets
 - `sec_xor`
